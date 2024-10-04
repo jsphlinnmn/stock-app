@@ -5,10 +5,13 @@ to fetch and display stock prices with a friendly UI, all from the terminal.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install textual.
-
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install textual
 ```bash
 pip install textual
+```
+and yfinance
+```bash
+pip install yfinance
 ```
 
 ## Usage
